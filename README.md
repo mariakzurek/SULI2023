@@ -3,8 +3,8 @@
 ## Useful Matarials 
 ### EIC Physics
 - NAS report: https://nap.nationalacademies.org/catalog/25171/an-assessment-of-us-based-electron-ion-collider-science
-    -Read Summary
-    -Will Read Chpt. 1 & 2
+    - Read Summary
+    - Will Read Chpt. 1 & 2
 ### Github Account:
 - GitHub Student Pack: https://education.github.com/pack
     - Completed
